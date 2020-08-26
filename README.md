@@ -6,3 +6,4 @@
 4. https://www.anaconda.com/
 5. https://jupyter.org/
 6. https://colab.research.google.com
+7. https://www.datacamp.com/community/tutorials/unit-testing-python
